@@ -29,8 +29,3 @@ This system allows users to browse, book, and manage photographers for different
 
 ---
 
-## ⚙️ Installation Guide
-
-1. **Clone or download** this repository to your local system:  
-   ```bash
-   git clone https://github.com/Neeraj05-dev/online-photographer-booking.git
